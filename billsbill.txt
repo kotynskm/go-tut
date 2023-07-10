@@ -1,0 +1,5 @@
+Bill breakdown: 
+Item: coffee                    .... Price: $4.5
+Item: pie                       .... Price: $6.5
+Tip: 0                         
+ Total:                                    $10.00
